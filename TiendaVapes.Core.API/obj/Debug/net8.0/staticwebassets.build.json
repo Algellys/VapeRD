@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "pC84g3fl0FmXvQe2EUbxT14AdRY8vFSpdZ7aqDtOPdc=",
+  "Source": "TiendaVapes.Core.API",
+  "BasePath": "_content/TiendaVapes.Core.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

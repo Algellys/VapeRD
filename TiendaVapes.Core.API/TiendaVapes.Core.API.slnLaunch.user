@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "TiendaVapes.Core.API.csproj",
+        "Action": "StartWithoutDebugging",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "..\\TiendaVapes.AdminUI\\TiendaVapes.AdminUI.csproj",
+        "Action": "StartWithoutDebugging"
+      },
+      {
+        "Path": "..\\Integracion.API\\Integracion.API.csproj",
+        "Action": "StartWithoutDebugging",
+        "DebugTarget": "http"
+      }
+    ]
+  }
+]

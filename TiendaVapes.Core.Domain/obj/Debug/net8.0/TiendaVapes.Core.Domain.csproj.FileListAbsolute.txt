@@ -1,0 +1,11 @@
+C:\VapesRD\TiendaVapes.Core.Domain\bin\Debug\net8.0\TiendaVapes.Core.Domain.deps.json
+C:\VapesRD\TiendaVapes.Core.Domain\bin\Debug\net8.0\TiendaVapes.Core.Domain.dll
+C:\VapesRD\TiendaVapes.Core.Domain\bin\Debug\net8.0\TiendaVapes.Core.Domain.pdb
+C:\VapesRD\TiendaVapes.Core.Domain\obj\Debug\net8.0\TiendaVapes.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\VapesRD\TiendaVapes.Core.Domain\obj\Debug\net8.0\TiendaVapes.Core.Domain.AssemblyInfoInputs.cache
+C:\VapesRD\TiendaVapes.Core.Domain\obj\Debug\net8.0\TiendaVapes.Core.Domain.AssemblyInfo.cs
+C:\VapesRD\TiendaVapes.Core.Domain\obj\Debug\net8.0\TiendaVapes.Core.Domain.csproj.CoreCompileInputs.cache
+C:\VapesRD\TiendaVapes.Core.Domain\obj\Debug\net8.0\TiendaVapes.Core.Domain.dll
+C:\VapesRD\TiendaVapes.Core.Domain\obj\Debug\net8.0\refint\TiendaVapes.Core.Domain.dll
+C:\VapesRD\TiendaVapes.Core.Domain\obj\Debug\net8.0\TiendaVapes.Core.Domain.pdb
+C:\VapesRD\TiendaVapes.Core.Domain\obj\Debug\net8.0\ref\TiendaVapes.Core.Domain.dll

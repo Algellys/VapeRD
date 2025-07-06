@@ -1,0 +1,11 @@
+C:\VapesRD\Integracion.Domain\bin\Debug\net8.0\Integracion.Domain.deps.json
+C:\VapesRD\Integracion.Domain\bin\Debug\net8.0\Integracion.Domain.dll
+C:\VapesRD\Integracion.Domain\bin\Debug\net8.0\Integracion.Domain.pdb
+C:\VapesRD\Integracion.Domain\obj\Debug\net8.0\Integracion.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\VapesRD\Integracion.Domain\obj\Debug\net8.0\Integracion.Domain.AssemblyInfoInputs.cache
+C:\VapesRD\Integracion.Domain\obj\Debug\net8.0\Integracion.Domain.AssemblyInfo.cs
+C:\VapesRD\Integracion.Domain\obj\Debug\net8.0\Integracion.Domain.csproj.CoreCompileInputs.cache
+C:\VapesRD\Integracion.Domain\obj\Debug\net8.0\Integracion.Domain.dll
+C:\VapesRD\Integracion.Domain\obj\Debug\net8.0\refint\Integracion.Domain.dll
+C:\VapesRD\Integracion.Domain\obj\Debug\net8.0\Integracion.Domain.pdb
+C:\VapesRD\Integracion.Domain\obj\Debug\net8.0\ref\Integracion.Domain.dll

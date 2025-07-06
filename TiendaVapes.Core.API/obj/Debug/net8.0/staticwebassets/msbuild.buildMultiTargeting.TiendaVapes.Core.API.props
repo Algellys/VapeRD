@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TiendaVapes.Core.API.props" />
+</Project>

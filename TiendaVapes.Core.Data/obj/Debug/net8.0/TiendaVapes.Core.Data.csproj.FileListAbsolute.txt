@@ -1,0 +1,17 @@
+C:\VapesRD\TiendaVapes.Core.Data\bin\Debug\net8.0\TiendaVapes.Core.Data.deps.json
+C:\VapesRD\TiendaVapes.Core.Data\bin\Debug\net8.0\TiendaVapes.Core.Data.runtimeconfig.json
+C:\VapesRD\TiendaVapes.Core.Data\bin\Debug\net8.0\TiendaVapes.Core.Data.dll
+C:\VapesRD\TiendaVapes.Core.Data\bin\Debug\net8.0\TiendaVapes.Core.Data.pdb
+C:\VapesRD\TiendaVapes.Core.Data\bin\Debug\net8.0\TiendaVapes.Core.Domain.dll
+C:\VapesRD\TiendaVapes.Core.Data\bin\Debug\net8.0\TiendaVapes.Core.Domain.pdb
+C:\VapesRD\TiendaVapes.Core.Data\obj\Debug\net8.0\TiendaVapes.Core.Data.csproj.AssemblyReference.cache
+C:\VapesRD\TiendaVapes.Core.Data\obj\Debug\net8.0\TiendaVapes.Core.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\VapesRD\TiendaVapes.Core.Data\obj\Debug\net8.0\TiendaVapes.Core.Data.AssemblyInfoInputs.cache
+C:\VapesRD\TiendaVapes.Core.Data\obj\Debug\net8.0\TiendaVapes.Core.Data.AssemblyInfo.cs
+C:\VapesRD\TiendaVapes.Core.Data\obj\Debug\net8.0\TiendaVapes.Core.Data.csproj.CoreCompileInputs.cache
+C:\VapesRD\TiendaVapes.Core.Data\obj\Debug\net8.0\TiendaVa.B31B9B56.Up2Date
+C:\VapesRD\TiendaVapes.Core.Data\obj\Debug\net8.0\TiendaVapes.Core.Data.dll
+C:\VapesRD\TiendaVapes.Core.Data\obj\Debug\net8.0\refint\TiendaVapes.Core.Data.dll
+C:\VapesRD\TiendaVapes.Core.Data\obj\Debug\net8.0\TiendaVapes.Core.Data.pdb
+C:\VapesRD\TiendaVapes.Core.Data\obj\Debug\net8.0\TiendaVapes.Core.Data.genruntimeconfig.cache
+C:\VapesRD\TiendaVapes.Core.Data\obj\Debug\net8.0\ref\TiendaVapes.Core.Data.dll

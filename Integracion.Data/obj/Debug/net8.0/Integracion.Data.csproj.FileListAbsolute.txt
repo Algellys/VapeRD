@@ -1,0 +1,15 @@
+C:\VapesRD\Integracion.Data\bin\Debug\net8.0\Integracion.Data.deps.json
+C:\VapesRD\Integracion.Data\bin\Debug\net8.0\Integracion.Data.dll
+C:\VapesRD\Integracion.Data\bin\Debug\net8.0\Integracion.Data.pdb
+C:\VapesRD\Integracion.Data\bin\Debug\net8.0\Integracion.Domain.dll
+C:\VapesRD\Integracion.Data\bin\Debug\net8.0\Integracion.Domain.pdb
+C:\VapesRD\Integracion.Data\obj\Debug\net8.0\Integracion.Data.csproj.AssemblyReference.cache
+C:\VapesRD\Integracion.Data\obj\Debug\net8.0\Integracion.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\VapesRD\Integracion.Data\obj\Debug\net8.0\Integracion.Data.AssemblyInfoInputs.cache
+C:\VapesRD\Integracion.Data\obj\Debug\net8.0\Integracion.Data.AssemblyInfo.cs
+C:\VapesRD\Integracion.Data\obj\Debug\net8.0\Integracion.Data.csproj.CoreCompileInputs.cache
+C:\VapesRD\Integracion.Data\obj\Debug\net8.0\Integrac.0AFE3931.Up2Date
+C:\VapesRD\Integracion.Data\obj\Debug\net8.0\Integracion.Data.dll
+C:\VapesRD\Integracion.Data\obj\Debug\net8.0\refint\Integracion.Data.dll
+C:\VapesRD\Integracion.Data\obj\Debug\net8.0\Integracion.Data.pdb
+C:\VapesRD\Integracion.Data\obj\Debug\net8.0\ref\Integracion.Data.dll

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frmClienteAgregarEditar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCotizaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCuentasPorCobrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmFacturaAgregarEditar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmFacturas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmInventarioMovimientos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmLogs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPerfiles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmProductoAgregarEditar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmServicioAgregarEditar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmServicios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmUsuarioAgregarEditar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

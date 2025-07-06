@@ -1,0 +1,2063 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VapesRD\\TiendaVapes.Core.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C419BD48-887E-4CF7-B089-186642F3EE01}|..\\Integracion.Domain\\Integracion.Domain.csproj|c:\\vapesrd\\integracion.domain\\entidades\\facturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C419BD48-887E-4CF7-B089-186642F3EE01}|..\\Integracion.Domain\\Integracion.Domain.csproj|c:\\vapesrd\\integracion.domain\\entidades\\inventariomovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C419BD48-887E-4CF7-B089-186642F3EE01}|..\\Integracion.Domain\\Integracion.Domain.csproj|c:\\vapesrd\\integracion.domain\\entidades\\cuentaporcobrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C419BD48-887E-4CF7-B089-186642F3EE01}|..\\Integracion.Domain\\Integracion.Domain.csproj|c:\\vapesrd\\integracion.domain\\entidades\\cotizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C419BD48-887E-4CF7-B089-186642F3EE01}|..\\Integracion.Domain\\Integracion.Domain.csproj|c:\\vapesrd\\integracion.domain\\entidades\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C419BD48-887E-4CF7-B089-186642F3EE01}|..\\Integracion.Domain\\Integracion.Domain.csproj|c:\\vapesrd\\integracion.domain\\entidades\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C419BD48-887E-4CF7-B089-186642F3EE01}|..\\Integracion.Domain\\Integracion.Domain.csproj|c:\\vapesrd\\integracion.domain\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C419BD48-887E-4CF7-B089-186642F3EE01}|..\\Integracion.Domain\\Integracion.Domain.csproj|c:\\vapesrd\\integracion.domain\\entidades\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E2EE3C-ED2C-4675-A1D1-FE69EF7D1863}|..\\Integracion.Services\\Integracion.Services.csproj|c:\\vapesrd\\integracion.services\\interfaces\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E2EE3C-ED2C-4675-A1D1-FE69EF7D1863}|..\\Integracion.Services\\Integracion.Services.csproj|c:\\vapesrd\\integracion.services\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E2EE3C-ED2C-4675-A1D1-FE69EF7D1863}|..\\Integracion.Services\\Integracion.Services.csproj|c:\\vapesrd\\integracion.services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E2EE3C-ED2C-4675-A1D1-FE69EF7D1863}|..\\Integracion.Services\\Integracion.Services.csproj|c:\\vapesrd\\integracion.services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5F91D3-9EA3-4AC2-A0A2-D6C52B2FB97A}|..\\Integracion.Data\\Integracion.Data.csproj|c:\\vapesrd\\integracion.data\\repositorios\\facturasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5F91D3-9EA3-4AC2-A0A2-D6C52B2FB97A}|..\\Integracion.Data\\Integracion.Data.csproj|c:\\vapesrd\\integracion.data\\repositorios\\ifacturasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E2EE3C-ED2C-4675-A1D1-FE69EF7D1863}|..\\Integracion.Services\\Integracion.Services.csproj|c:\\vapesrd\\integracion.services\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0134CC40-D9DE-45E8-8569-07B931C8551F}|..\\Integracion.API\\Integracion.API.csproj|c:\\vapesrd\\integracion.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0134CC40-D9DE-45E8-8569-07B931C8551F}|..\\Integracion.API\\Integracion.API.csproj|c:\\vapesrd\\integracion.api\\controllers\\cuentasporcobrarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0134CC40-D9DE-45E8-8569-07B931C8551F}|..\\Integracion.API\\Integracion.API.csproj|c:\\vapesrd\\integracion.api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0134CC40-D9DE-45E8-8569-07B931C8551F}|..\\Integracion.API\\Integracion.API.csproj|c:\\vapesrd\\integracion.api\\controllers\\cotizacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0134CC40-D9DE-45E8-8569-07B931C8551F}|..\\Integracion.API\\Integracion.API.csproj|c:\\vapesrd\\integracion.api\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0134CC40-D9DE-45E8-8569-07B931C8551F}|..\\Integracion.API\\Integracion.API.csproj|c:\\vapesrd\\integracion.api\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0134CC40-D9DE-45E8-8569-07B931C8551F}|..\\Integracion.API\\Integracion.API.csproj|c:\\vapesrd\\integracion.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0134CC40-D9DE-45E8-8569-07B931C8551F}|..\\Integracion.API\\Integracion.API.csproj|c:\\vapesrd\\integracion.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E2EE3C-ED2C-4675-A1D1-FE69EF7D1863}|..\\Integracion.Services\\Integracion.Services.csproj|c:\\vapesrd\\integracion.services\\cuentasporcobrarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E2EE3C-ED2C-4675-A1D1-FE69EF7D1863}|..\\Integracion.Services\\Integracion.Services.csproj|c:\\vapesrd\\integracion.services\\interfaces\\icuentasporcobrarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E2EE3C-ED2C-4675-A1D1-FE69EF7D1863}|..\\Integracion.Services\\Integracion.Services.csproj|c:\\vapesrd\\integracion.services\\cotizacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E2EE3C-ED2C-4675-A1D1-FE69EF7D1863}|..\\Integracion.Services\\Integracion.Services.csproj|c:\\vapesrd\\integracion.services\\interfaces\\icotizacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E2EE3C-ED2C-4675-A1D1-FE69EF7D1863}|..\\Integracion.Services\\Integracion.Services.csproj|c:\\vapesrd\\integracion.services\\serviciosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E2EE3C-ED2C-4675-A1D1-FE69EF7D1863}|..\\Integracion.Services\\Integracion.Services.csproj|c:\\vapesrd\\integracion.services\\interfaces\\iserviciosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E2EE3C-ED2C-4675-A1D1-FE69EF7D1863}|..\\Integracion.Services\\Integracion.Services.csproj|c:\\vapesrd\\integracion.services\\interfaces\\ifacturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E2EE3C-ED2C-4675-A1D1-FE69EF7D1863}|..\\Integracion.Services\\Integracion.Services.csproj|c:\\vapesrd\\integracion.services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5F91D3-9EA3-4AC2-A0A2-D6C52B2FB97A}|..\\Integracion.Data\\Integracion.Data.csproj|c:\\vapesrd\\integracion.data\\repositorios\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E2EE3C-ED2C-4675-A1D1-FE69EF7D1863}|..\\Integracion.Services\\Integracion.Services.csproj|c:\\vapesrd\\integracion.services\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E2EE3C-ED2C-4675-A1D1-FE69EF7D1863}|..\\Integracion.Services\\Integracion.Services.csproj|c:\\vapesrd\\integracion.services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0134CC40-D9DE-45E8-8569-07B931C8551F}|..\\Integracion.API\\Integracion.API.csproj|c:\\vapesrd\\integracion.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0134CC40-D9DE-45E8-8569-07B931C8551F}|..\\Integracion.API\\Integracion.API.csproj|c:\\vapesrd\\integracion.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5F91D3-9EA3-4AC2-A0A2-D6C52B2FB97A}|..\\Integracion.Data\\Integracion.Data.csproj|c:\\vapesrd\\integracion.data\\repositorios\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5F91D3-9EA3-4AC2-A0A2-D6C52B2FB97A}|..\\Integracion.Data\\Integracion.Data.csproj|c:\\vapesrd\\integracion.data\\repositorios\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5F91D3-9EA3-4AC2-A0A2-D6C52B2FB97A}|..\\Integracion.Data\\Integracion.Data.csproj|c:\\vapesrd\\integracion.data\\repositorios\\iinventariomovimientorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5F91D3-9EA3-4AC2-A0A2-D6C52B2FB97A}|..\\Integracion.Data\\Integracion.Data.csproj|c:\\vapesrd\\integracion.data\\repositorios\\cotizacionesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2071E107-EC5A-4904-93BF-EFC1665054C4}|TiendaVapes.Core.API.csproj|c:\\vapesrd\\tiendavapes.core.api\\services\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2071E107-EC5A-4904-93BF-EFC1665054C4}|TiendaVapes.Core.API.csproj|solutionrelative:services\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2071E107-EC5A-4904-93BF-EFC1665054C4}|TiendaVapes.Core.API.csproj|c:\\vapesrd\\tiendavapes.core.api\\services\\iservicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2071E107-EC5A-4904-93BF-EFC1665054C4}|TiendaVapes.Core.API.csproj|solutionrelative:services\\iservicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2071E107-EC5A-4904-93BF-EFC1665054C4}|TiendaVapes.Core.API.csproj|c:\\vapesrd\\tiendavapes.core.api\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2071E107-EC5A-4904-93BF-EFC1665054C4}|TiendaVapes.Core.API.csproj|solutionrelative:services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2071E107-EC5A-4904-93BF-EFC1665054C4}|TiendaVapes.Core.API.csproj|c:\\vapesrd\\tiendavapes.core.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2071E107-EC5A-4904-93BF-EFC1665054C4}|TiendaVapes.Core.API.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5F91D3-9EA3-4AC2-A0A2-D6C52B2FB97A}|..\\Integracion.Data\\Integracion.Data.csproj|c:\\vapesrd\\integracion.data\\repositorios\\icotizacionesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5F91D3-9EA3-4AC2-A0A2-D6C52B2FB97A}|..\\Integracion.Data\\Integracion.Data.csproj|c:\\vapesrd\\integracion.data\\bdcorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5F91D3-9EA3-4AC2-A0A2-D6C52B2FB97A}|..\\Integracion.Data\\Integracion.Data.csproj|c:\\vapesrd\\integracion.data\\integracion.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24236FDE-5516-4F8D-A0F6-6DFA4DF19971}|..\\TiendaVapes.Core.Data\\TiendaVapes.Core.Data.csproj|c:\\vapesrd\\tiendavapes.core.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5F91D3-9EA3-4AC2-A0A2-D6C52B2FB97A}|..\\Integracion.Data\\Integracion.Data.csproj|c:\\vapesrd\\integracion.data\\repositorios\\serviciosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5F91D3-9EA3-4AC2-A0A2-D6C52B2FB97A}|..\\Integracion.Data\\Integracion.Data.csproj|c:\\vapesrd\\integracion.data\\repositorios\\logsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5F91D3-9EA3-4AC2-A0A2-D6C52B2FB97A}|..\\Integracion.Data\\Integracion.Data.csproj|c:\\vapesrd\\integracion.data\\repositorios\\iperfilesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5F91D3-9EA3-4AC2-A0A2-D6C52B2FB97A}|..\\Integracion.Data\\Integracion.Data.csproj|c:\\vapesrd\\integracion.data\\repositorios\\icuentasporcobrarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5F91D3-9EA3-4AC2-A0A2-D6C52B2FB97A}|..\\Integracion.Data\\Integracion.Data.csproj|c:\\vapesrd\\integracion.data\\repositorios\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C419BD48-887E-4CF7-B089-186642F3EE01}|..\\Integracion.Domain\\Integracion.Domain.csproj|c:\\vapesrd\\integracion.domain\\entidades\\perfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C419BD48-887E-4CF7-B089-186642F3EE01}|..\\Integracion.Domain\\Integracion.Domain.csproj|c:\\vapesrd\\integracion.domain\\entidades\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617317BE-ADB9-4F4B-B0AC-939DA60E721D}|..\\TiendaVapes.Core.Domain\\TiendaVapes.Core.Domain.csproj|c:\\vapesrd\\tiendavapes.core.domain\\entidades\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5F91D3-9EA3-4AC2-A0A2-D6C52B2FB97A}|..\\Integracion.Data\\Integracion.Data.csproj|c:\\vapesrd\\integracion.data\\repositorios\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5F91D3-9EA3-4AC2-A0A2-D6C52B2FB97A}|..\\Integracion.Data\\Integracion.Data.csproj|c:\\vapesrd\\integracion.data\\repositorios\\perfilesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5F91D3-9EA3-4AC2-A0A2-D6C52B2FB97A}|..\\Integracion.Data\\Integracion.Data.csproj|c:\\vapesrd\\integracion.data\\repositorios\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5F91D3-9EA3-4AC2-A0A2-D6C52B2FB97A}|..\\Integracion.Data\\Integracion.Data.csproj|c:\\vapesrd\\integracion.data\\repositorios\\iserviciosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5F91D3-9EA3-4AC2-A0A2-D6C52B2FB97A}|..\\Integracion.Data\\Integracion.Data.csproj|c:\\vapesrd\\integracion.data\\repositorios\\inventariomovimientorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5F91D3-9EA3-4AC2-A0A2-D6C52B2FB97A}|..\\Integracion.Data\\Integracion.Data.csproj|c:\\vapesrd\\integracion.data\\repositorios\\ilogsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5F91D3-9EA3-4AC2-A0A2-D6C52B2FB97A}|..\\Integracion.Data\\Integracion.Data.csproj|c:\\vapesrd\\integracion.data\\repositorios\\cuentasporcobrarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C419BD48-887E-4CF7-B089-186642F3EE01}|..\\Integracion.Domain\\Integracion.Domain.csproj|c:\\vapesrd\\integracion.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54884D81-4C2A-4BAE-88B5-120CFA4D1B61}|..\\TiendaVapes.AdminUI\\TiendaVapes.AdminUI.csproj|c:\\vapesrd\\tiendavapes.adminui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54884D81-4C2A-4BAE-88B5-120CFA4D1B61}|..\\TiendaVapes.AdminUI\\TiendaVapes.AdminUI.csproj|c:\\vapesrd\\tiendavapes.adminui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54884D81-4C2A-4BAE-88B5-120CFA4D1B61}|..\\TiendaVapes.AdminUI\\TiendaVapes.AdminUI.csproj|c:\\vapesrd\\tiendavapes.adminui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54884D81-4C2A-4BAE-88B5-120CFA4D1B61}|..\\TiendaVapes.AdminUI\\TiendaVapes.AdminUI.csproj|c:\\vapesrd\\tiendavapes.adminui\\frmcuentasporcobrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54884D81-4C2A-4BAE-88B5-120CFA4D1B61}|..\\TiendaVapes.AdminUI\\TiendaVapes.AdminUI.csproj|c:\\vapesrd\\tiendavapes.adminui\\frmcuentasporcobrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54884D81-4C2A-4BAE-88B5-120CFA4D1B61}|..\\TiendaVapes.AdminUI\\TiendaVapes.AdminUI.csproj|c:\\vapesrd\\tiendavapes.adminui\\frmcotizaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54884D81-4C2A-4BAE-88B5-120CFA4D1B61}|..\\TiendaVapes.AdminUI\\TiendaVapes.AdminUI.csproj|c:\\vapesrd\\tiendavapes.adminui\\frmcotizaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54884D81-4C2A-4BAE-88B5-120CFA4D1B61}|..\\TiendaVapes.AdminUI\\TiendaVapes.AdminUI.csproj|c:\\vapesrd\\tiendavapes.adminui\\frmservicioagregareditar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54884D81-4C2A-4BAE-88B5-120CFA4D1B61}|..\\TiendaVapes.AdminUI\\TiendaVapes.AdminUI.csproj|c:\\vapesrd\\tiendavapes.adminui\\frmusuarioagregareditar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54884D81-4C2A-4BAE-88B5-120CFA4D1B61}|..\\TiendaVapes.AdminUI\\TiendaVapes.AdminUI.csproj|c:\\vapesrd\\tiendavapes.adminui\\frmservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54884D81-4C2A-4BAE-88B5-120CFA4D1B61}|..\\TiendaVapes.AdminUI\\TiendaVapes.AdminUI.csproj|c:\\vapesrd\\tiendavapes.adminui\\frmservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54884D81-4C2A-4BAE-88B5-120CFA4D1B61}|..\\TiendaVapes.AdminUI\\TiendaVapes.AdminUI.csproj|c:\\vapesrd\\tiendavapes.adminui\\frmservicioagregareditar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54884D81-4C2A-4BAE-88B5-120CFA4D1B61}|..\\TiendaVapes.AdminUI\\TiendaVapes.AdminUI.csproj|c:\\vapesrd\\tiendavapes.adminui\\frmproductoagregareditar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54884D81-4C2A-4BAE-88B5-120CFA4D1B61}|..\\TiendaVapes.AdminUI\\TiendaVapes.AdminUI.csproj|c:\\vapesrd\\tiendavapes.adminui\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54884D81-4C2A-4BAE-88B5-120CFA4D1B61}|..\\TiendaVapes.AdminUI\\TiendaVapes.AdminUI.csproj|c:\\vapesrd\\tiendavapes.adminui\\frmfacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54884D81-4C2A-4BAE-88B5-120CFA4D1B61}|..\\TiendaVapes.AdminUI\\TiendaVapes.AdminUI.csproj|c:\\vapesrd\\tiendavapes.adminui\\frmfacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54884D81-4C2A-4BAE-88B5-120CFA4D1B61}|..\\TiendaVapes.AdminUI\\TiendaVapes.AdminUI.csproj|c:\\vapesrd\\tiendavapes.adminui\\frmfacturaagregareditar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54884D81-4C2A-4BAE-88B5-120CFA4D1B61}|..\\TiendaVapes.AdminUI\\TiendaVapes.AdminUI.csproj|c:\\vapesrd\\tiendavapes.adminui\\frmfacturaagregareditar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54884D81-4C2A-4BAE-88B5-120CFA4D1B61}|..\\TiendaVapes.AdminUI\\TiendaVapes.AdminUI.csproj|c:\\vapesrd\\tiendavapes.adminui\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54884D81-4C2A-4BAE-88B5-120CFA4D1B61}|..\\TiendaVapes.AdminUI\\TiendaVapes.AdminUI.csproj|c:\\vapesrd\\tiendavapes.adminui\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54884D81-4C2A-4BAE-88B5-120CFA4D1B61}|..\\TiendaVapes.AdminUI\\TiendaVapes.AdminUI.csproj|c:\\vapesrd\\tiendavapes.adminui\\frmclienteagregareditar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54884D81-4C2A-4BAE-88B5-120CFA4D1B61}|..\\TiendaVapes.AdminUI\\TiendaVapes.AdminUI.csproj|c:\\vapesrd\\tiendavapes.adminui\\frmclienteagregareditar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54884D81-4C2A-4BAE-88B5-120CFA4D1B61}|..\\TiendaVapes.AdminUI\\TiendaVapes.AdminUI.csproj|c:\\vapesrd\\tiendavapes.adminui\\frmusuarioagregareditar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54884D81-4C2A-4BAE-88B5-120CFA4D1B61}|..\\TiendaVapes.AdminUI\\TiendaVapes.AdminUI.csproj|c:\\vapesrd\\tiendavapes.adminui\\frmproductoagregareditar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54884D81-4C2A-4BAE-88B5-120CFA4D1B61}|..\\TiendaVapes.AdminUI\\TiendaVapes.AdminUI.csproj|c:\\vapesrd\\tiendavapes.adminui\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54884D81-4C2A-4BAE-88B5-120CFA4D1B61}|..\\TiendaVapes.AdminUI\\TiendaVapes.AdminUI.csproj|c:\\vapesrd\\tiendavapes.adminui\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54884D81-4C2A-4BAE-88B5-120CFA4D1B61}|..\\TiendaVapes.AdminUI\\TiendaVapes.AdminUI.csproj|c:\\vapesrd\\tiendavapes.adminui\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54884D81-4C2A-4BAE-88B5-120CFA4D1B61}|..\\TiendaVapes.AdminUI\\TiendaVapes.AdminUI.csproj|c:\\vapesrd\\tiendavapes.adminui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54884D81-4C2A-4BAE-88B5-120CFA4D1B61}|..\\TiendaVapes.AdminUI\\TiendaVapes.AdminUI.csproj|c:\\vapesrd\\tiendavapes.adminui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2071E107-EC5A-4904-93BF-EFC1665054C4}|TiendaVapes.Core.API.csproj|c:\\vapesrd\\tiendavapes.core.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2071E107-EC5A-4904-93BF-EFC1665054C4}|TiendaVapes.Core.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54884D81-4C2A-4BAE-88B5-120CFA4D1B61}|..\\TiendaVapes.AdminUI\\TiendaVapes.AdminUI.csproj|c:\\vapesrd\\tiendavapes.adminui\\tiendavapes.adminui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2071E107-EC5A-4904-93BF-EFC1665054C4}|TiendaVapes.Core.API.csproj|c:\\vapesrd\\tiendavapes.core.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2071E107-EC5A-4904-93BF-EFC1665054C4}|TiendaVapes.Core.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2071E107-EC5A-4904-93BF-EFC1665054C4}|TiendaVapes.Core.API.csproj|c:\\vapesrd\\tiendavapes.core.api\\tiendavapes.core.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2071E107-EC5A-4904-93BF-EFC1665054C4}|TiendaVapes.Core.API.csproj|solutionrelative:tiendavapes.core.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617317BE-ADB9-4F4B-B0AC-939DA60E721D}|..\\TiendaVapes.Core.Domain\\TiendaVapes.Core.Domain.csproj|c:\\vapesrd\\tiendavapes.core.domain\\tiendavapes.core.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24236FDE-5516-4F8D-A0F6-6DFA4DF19971}|..\\TiendaVapes.Core.Data\\TiendaVapes.Core.Data.csproj|c:\\vapesrd\\tiendavapes.core.data\\tiendavapes.core.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2071E107-EC5A-4904-93BF-EFC1665054C4}|TiendaVapes.Core.API.csproj|c:\\vapesrd\\tiendavapes.core.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2071E107-EC5A-4904-93BF-EFC1665054C4}|TiendaVapes.Core.API.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2071E107-EC5A-4904-93BF-EFC1665054C4}|TiendaVapes.Core.API.csproj|c:\\vapesrd\\tiendavapes.core.api\\services\\cotizacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2071E107-EC5A-4904-93BF-EFC1665054C4}|TiendaVapes.Core.API.csproj|solutionrelative:services\\cotizacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24236FDE-5516-4F8D-A0F6-6DFA4DF19971}|..\\TiendaVapes.Core.Data\\TiendaVapes.Core.Data.csproj|c:\\vapesrd\\tiendavapes.core.data\\repositorios\\inventariomovimientorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24236FDE-5516-4F8D-A0F6-6DFA4DF19971}|..\\TiendaVapes.Core.Data\\TiendaVapes.Core.Data.csproj|c:\\vapesrd\\tiendavapes.core.data\\repositorios\\iinventariomovimientorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24236FDE-5516-4F8D-A0F6-6DFA4DF19971}|..\\TiendaVapes.Core.Data\\TiendaVapes.Core.Data.csproj|c:\\vapesrd\\tiendavapes.core.data\\repositorios\\ilogsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24236FDE-5516-4F8D-A0F6-6DFA4DF19971}|..\\TiendaVapes.Core.Data\\TiendaVapes.Core.Data.csproj|c:\\vapesrd\\tiendavapes.core.data\\repositorios\\facturasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24236FDE-5516-4F8D-A0F6-6DFA4DF19971}|..\\TiendaVapes.Core.Data\\TiendaVapes.Core.Data.csproj|c:\\vapesrd\\tiendavapes.core.data\\repositorios\\ifacturasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24236FDE-5516-4F8D-A0F6-6DFA4DF19971}|..\\TiendaVapes.Core.Data\\TiendaVapes.Core.Data.csproj|c:\\vapesrd\\tiendavapes.core.data\\repositorios\\serviciosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24236FDE-5516-4F8D-A0F6-6DFA4DF19971}|..\\TiendaVapes.Core.Data\\TiendaVapes.Core.Data.csproj|c:\\vapesrd\\tiendavapes.core.data\\repositorios\\iserviciosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24236FDE-5516-4F8D-A0F6-6DFA4DF19971}|..\\TiendaVapes.Core.Data\\TiendaVapes.Core.Data.csproj|c:\\vapesrd\\tiendavapes.core.data\\repositorios\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24236FDE-5516-4F8D-A0F6-6DFA4DF19971}|..\\TiendaVapes.Core.Data\\TiendaVapes.Core.Data.csproj|c:\\vapesrd\\tiendavapes.core.data\\repositorios\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24236FDE-5516-4F8D-A0F6-6DFA4DF19971}|..\\TiendaVapes.Core.Data\\TiendaVapes.Core.Data.csproj|c:\\vapesrd\\tiendavapes.core.data\\repositorios\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24236FDE-5516-4F8D-A0F6-6DFA4DF19971}|..\\TiendaVapes.Core.Data\\TiendaVapes.Core.Data.csproj|c:\\vapesrd\\tiendavapes.core.data\\repositorios\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24236FDE-5516-4F8D-A0F6-6DFA4DF19971}|..\\TiendaVapes.Core.Data\\TiendaVapes.Core.Data.csproj|c:\\vapesrd\\tiendavapes.core.data\\repositorios\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24236FDE-5516-4F8D-A0F6-6DFA4DF19971}|..\\TiendaVapes.Core.Data\\TiendaVapes.Core.Data.csproj|c:\\vapesrd\\tiendavapes.core.data\\repositorios\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617317BE-ADB9-4F4B-B0AC-939DA60E721D}|..\\TiendaVapes.Core.Domain\\TiendaVapes.Core.Domain.csproj|c:\\vapesrd\\tiendavapes.core.domain\\entidades\\inventariomovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617317BE-ADB9-4F4B-B0AC-939DA60E721D}|..\\TiendaVapes.Core.Domain\\TiendaVapes.Core.Domain.csproj|c:\\vapesrd\\tiendavapes.core.domain\\entidades\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617317BE-ADB9-4F4B-B0AC-939DA60E721D}|..\\TiendaVapes.Core.Domain\\TiendaVapes.Core.Domain.csproj|c:\\vapesrd\\tiendavapes.core.domain\\entidades\\cotizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617317BE-ADB9-4F4B-B0AC-939DA60E721D}|..\\TiendaVapes.Core.Domain\\TiendaVapes.Core.Domain.csproj|c:\\vapesrd\\tiendavapes.core.domain\\entidades\\cuentaporcobrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617317BE-ADB9-4F4B-B0AC-939DA60E721D}|..\\TiendaVapes.Core.Domain\\TiendaVapes.Core.Domain.csproj|c:\\vapesrd\\tiendavapes.core.domain\\entidades\\facturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617317BE-ADB9-4F4B-B0AC-939DA60E721D}|..\\TiendaVapes.Core.Domain\\TiendaVapes.Core.Domain.csproj|c:\\vapesrd\\tiendavapes.core.domain\\entidades\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__VAPESRD_TIENDAVAPES.CORE.DATA_BDCORE.MDF/True/SqlTable/dbo.Perfiles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617317BE-ADB9-4F4B-B0AC-939DA60E721D}|..\\TiendaVapes.Core.Domain\\TiendaVapes.Core.Domain.csproj|c:\\vapesrd\\tiendavapes.core.domain\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617317BE-ADB9-4F4B-B0AC-939DA60E721D}|..\\TiendaVapes.Core.Domain\\TiendaVapes.Core.Domain.csproj|c:\\vapesrd\\tiendavapes.core.domain\\entidades\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617317BE-ADB9-4F4B-B0AC-939DA60E721D}|..\\TiendaVapes.Core.Domain\\TiendaVapes.Core.Domain.csproj|c:\\vapesrd\\tiendavapes.core.domain\\entidades\\perfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\algel\\AppData\\Local\\Temp\\gdpimatu..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__VAPESRD_TIENDAVAPES.CORE.DATA_BDCORE.MDF/True/SqlTable/dbo.Usuarios.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2071E107-EC5A-4904-93BF-EFC1665054C4}|TiendaVapes.Core.API.csproj|c:\\vapesrd\\tiendavapes.core.api\\sqlquery3.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{2071E107-EC5A-4904-93BF-EFC1665054C4}|TiendaVapes.Core.API.csproj|solutionrelative:sqlquery3.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2071E107-EC5A-4904-93BF-EFC1665054C4}|TiendaVapes.Core.API.csproj|c:\\vapesrd\\tiendavapes.core.api\\sqlquery3.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{2071E107-EC5A-4904-93BF-EFC1665054C4}|TiendaVapes.Core.API.csproj|solutionrelative:sqlquery3.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CuentaPorCobrar.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Domain\\Entidades\\CuentaPorCobrar.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Domain\\Entidades\\CuentaPorCobrar.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Domain\\Entidades\\CuentaPorCobrar.cs",
+              "RelativeToolTip": "..\\Integracion.Domain\\Entidades\\CuentaPorCobrar.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:24:42.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventarioMovimiento.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Domain\\Entidades\\InventarioMovimiento.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Domain\\Entidades\\InventarioMovimiento.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Domain\\Entidades\\InventarioMovimiento.cs",
+              "RelativeToolTip": "..\\Integracion.Domain\\Entidades\\InventarioMovimiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:24:53.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Facturas.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Domain\\Entidades\\Facturas.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Domain\\Entidades\\Facturas.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Domain\\Entidades\\Facturas.cs",
+              "RelativeToolTip": "..\\Integracion.Domain\\Entidades\\Facturas.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:24:46.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cotizacion.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Domain\\Entidades\\Cotizacion.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Domain\\Entidades\\Cotizacion.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Domain\\Entidades\\Cotizacion.cs",
+              "RelativeToolTip": "..\\Integracion.Domain\\Entidades\\Cotizacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:24:34.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Servicios.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Domain\\Entidades\\Servicios.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Domain\\Entidades\\Servicios.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Domain\\Entidades\\Servicios.cs",
+              "RelativeToolTip": "..\\Integracion.Domain\\Entidades\\Servicios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:25:09.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Domain\\Entidades\\Clientes.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Domain\\Entidades\\Clientes.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Domain\\Entidades\\Clientes.cs",
+              "RelativeToolTip": "..\\Integracion.Domain\\Entidades\\Clientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:24:21.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Domain\\Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Domain\\Entidades\\Usuario.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Domain\\Entidades\\Usuario.cs",
+              "RelativeToolTip": "..\\Integracion.Domain\\Entidades\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:25:14.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Domain\\Entidades\\Productos.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Domain\\Entidades\\Productos.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Domain\\Entidades\\Productos.cs",
+              "RelativeToolTip": "..\\Integracion.Domain\\Entidades\\Productos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:25:06.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductoService.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Services\\Interfaces\\IProductoService.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Services\\Interfaces\\IProductoService.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Services\\Interfaces\\IProductoService.cs",
+              "RelativeToolTip": "..\\Integracion.Services\\Interfaces\\IProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:49:21.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Services\\Interfaces\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Services\\Interfaces\\IUsuarioService.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Services\\Interfaces\\IUsuarioService.cs",
+              "RelativeToolTip": "..\\Integracion.Services\\Interfaces\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T16:03:45.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Services\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Services\\Class1.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Services\\Class1.cs",
+              "RelativeToolTip": "..\\Integracion.Services\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T13:58:43.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Services\\ProductoService.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Services\\ProductoService.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Services\\ProductoService.cs",
+              "RelativeToolTip": "..\\Integracion.Services\\ProductoService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T15:02:45.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FacturasRepository.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Data\\Repositorios\\FacturasRepository.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Data\\Repositorios\\FacturasRepository.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Data\\Repositorios\\FacturasRepository.cs",
+              "RelativeToolTip": "..\\Integracion.Data\\Repositorios\\FacturasRepository.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAACYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:20:51.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IFacturasRepository.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Data\\Repositorios\\IFacturasRepository.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Data\\Repositorios\\IFacturasRepository.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Data\\Repositorios\\IFacturasRepository.cs",
+              "RelativeToolTip": "..\\Integracion.Data\\Repositorios\\IFacturasRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:21:42.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FacturaService.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Services\\FacturaService.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Services\\FacturaService.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Services\\FacturaService.cs",
+              "RelativeToolTip": "..\\Integracion.Services\\FacturaService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T16:27:16.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.API\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.API\\Program.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.API\\Program.cs",
+              "RelativeToolTip": "..\\Integracion.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T15:26:52.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CuentasPorCobrarController.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.API\\Controllers\\CuentasPorCobrarController.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.API\\Controllers\\CuentasPorCobrarController.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.API\\Controllers\\CuentasPorCobrarController.cs",
+              "RelativeToolTip": "..\\Integracion.API\\Controllers\\CuentasPorCobrarController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwCwAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T18:53:08.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CotizacionController.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.API\\Controllers\\CotizacionController.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.API\\Controllers\\CotizacionController.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.API\\Controllers\\CotizacionController.cs",
+              "RelativeToolTip": "..\\Integracion.API\\Controllers\\CotizacionController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T18:50:56.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.API\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.API\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.API\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "..\\Integracion.API\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T15:25:53.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ServiciosController.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.API\\Controllers\\ServiciosController.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.API\\Controllers\\ServiciosController.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.API\\Controllers\\ServiciosController.cs",
+              "RelativeToolTip": "..\\Integracion.API\\Controllers\\ServiciosController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T18:49:20.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FacturaController.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.API\\Controllers\\FacturaController.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.API\\Controllers\\FacturaController.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.API\\Controllers\\FacturaController.cs",
+              "RelativeToolTip": "..\\Integracion.API\\Controllers\\FacturaController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T18:47:47.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.API\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.API\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.API\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "..\\Integracion.API\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T18:36:11.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.API\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.API\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.API\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "..\\Integracion.API\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T18:34:39.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CuentasPorCobrarService.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Services\\CuentasPorCobrarService.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Services\\CuentasPorCobrarService.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Services\\CuentasPorCobrarService.cs",
+              "RelativeToolTip": "..\\Integracion.Services\\CuentasPorCobrarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T18:30:28.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ICuentasPorCobrarService.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Services\\Interfaces\\ICuentasPorCobrarService.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Services\\Interfaces\\ICuentasPorCobrarService.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Services\\Interfaces\\ICuentasPorCobrarService.cs",
+              "RelativeToolTip": "..\\Integracion.Services\\Interfaces\\ICuentasPorCobrarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T18:29:56.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CotizacionService.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Services\\CotizacionService.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Services\\CotizacionService.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Services\\CotizacionService.cs",
+              "RelativeToolTip": "..\\Integracion.Services\\CotizacionService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T18:24:28.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ICotizacionService.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Services\\Interfaces\\ICotizacionService.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Services\\Interfaces\\ICotizacionService.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Services\\Interfaces\\ICotizacionService.cs",
+              "RelativeToolTip": "..\\Integracion.Services\\Interfaces\\ICotizacionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T18:22:50.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ServiciosService.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Services\\ServiciosService.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Services\\ServiciosService.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Services\\ServiciosService.cs",
+              "RelativeToolTip": "..\\Integracion.Services\\ServiciosService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T18:18:16.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IServiciosService.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Services\\Interfaces\\IServiciosService.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Services\\Interfaces\\IServiciosService.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Services\\Interfaces\\IServiciosService.cs",
+              "RelativeToolTip": "..\\Integracion.Services\\Interfaces\\IServiciosService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T18:17:53.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IFacturaService.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Services\\Interfaces\\IFacturaService.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Services\\Interfaces\\IFacturaService.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Services\\Interfaces\\IFacturaService.cs",
+              "RelativeToolTip": "..\\Integracion.Services\\Interfaces\\IFacturaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T16:22:16.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Services\\ClienteService.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Services\\ClienteService.cs",
+              "RelativeToolTip": "..\\Integracion.Services\\ClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T16:09:29.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Services\\Interfaces\\IClienteService.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Services\\Interfaces\\IClienteService.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Services\\Interfaces\\IClienteService.cs",
+              "RelativeToolTip": "..\\Integracion.Services\\Interfaces\\IClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T16:08:50.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Services\\UsuarioService.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Services\\UsuarioService.cs",
+              "RelativeToolTip": "..\\Integracion.Services\\UsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T16:04:21.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Data\\Repositorios\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Data\\Repositorios\\ClienteRepository.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Data\\Repositorios\\ClienteRepository.cs",
+              "RelativeToolTip": "..\\Integracion.Data\\Repositorios\\ClienteRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwEsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:18:15.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.API\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Integracion.API\\appsettings.json",
+              "ToolTip": "C:\\VapesRD\\Integracion.API\\appsettings.json",
+              "RelativeToolTip": "..\\Integracion.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-06T15:27:53.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.API\\WeatherForecast.cs",
+              "RelativeToolTip": "..\\Integracion.API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T15:26:55.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Data\\Repositorios\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Data\\Repositorios\\ProductoRepository.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Data\\Repositorios\\ProductoRepository.cs",
+              "RelativeToolTip": "..\\Integracion.Data\\Repositorios\\ProductoRepository.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAkwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:23:06.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IProductoRepository.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Data\\Repositorios\\IProductoRepository.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Data\\Repositorios\\IProductoRepository.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Data\\Repositorios\\IProductoRepository.cs",
+              "RelativeToolTip": "..\\Integracion.Data\\Repositorios\\IProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:22:19.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IInventarioMovimientoRepository.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Data\\Repositorios\\IInventarioMovimientoRepository.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Data\\Repositorios\\IInventarioMovimientoRepository.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Data\\Repositorios\\IInventarioMovimientoRepository.cs",
+              "RelativeToolTip": "..\\Integracion.Data\\Repositorios\\IInventarioMovimientoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:21:50.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CotizacionesRepository.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Data\\Repositorios\\CotizacionesRepository.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Data\\Repositorios\\CotizacionesRepository.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Data\\Repositorios\\CotizacionesRepository.cs",
+              "RelativeToolTip": "..\\Integracion.Data\\Repositorios\\CotizacionesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:19:45.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IProductoService.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.API\\Services\\IProductoService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductoService.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.API\\Services\\IProductoService.cs",
+              "RelativeToolTip": "Services\\IProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:47:59.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IServicioService.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.API\\Services\\IServicioService.cs",
+              "RelativeDocumentMoniker": "Services\\IServicioService.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.API\\Services\\IServicioService.cs",
+              "RelativeToolTip": "Services\\IServicioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:47:59.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ICotizacionesRepository.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Data\\Repositorios\\ICotizacionesRepository.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Data\\Repositorios\\ICotizacionesRepository.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Data\\Repositorios\\ICotizacionesRepository.cs",
+              "RelativeToolTip": "..\\Integracion.Data\\Repositorios\\ICotizacionesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:21:25.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BDCoreContext.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Data\\BDCoreContext.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Data\\BDCoreContext.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Data\\BDCoreContext.cs",
+              "RelativeToolTip": "..\\Integracion.Data\\BDCoreContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:34:04.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Integracion.Data",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Data\\Integracion.Data.csproj",
+              "RelativeDocumentMoniker": "..\\Integracion.Data\\Integracion.Data.csproj",
+              "ToolTip": "C:\\VapesRD\\Integracion.Data\\Integracion.Data.csproj",
+              "RelativeToolTip": "..\\Integracion.Data\\Integracion.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-06T14:29:55.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.API\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.API\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Controllers\\ClientesController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T13:04:43.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.API\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "Services\\ClienteService.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.API\\Services\\ClienteService.cs",
+              "RelativeToolTip": "Services\\ClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T13:04:52.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.Core.Data\\Class1.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.Data\\Class1.cs",
+              "RelativeToolTip": "..\\TiendaVapes.Core.Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:28:24.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "LogsRepository.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Data\\Repositorios\\LogsRepository.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Data\\Repositorios\\LogsRepository.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Data\\Repositorios\\LogsRepository.cs",
+              "RelativeToolTip": "..\\Integracion.Data\\Repositorios\\LogsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:22:52.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IPerfilesRepository.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Data\\Repositorios\\IPerfilesRepository.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Data\\Repositorios\\IPerfilesRepository.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Data\\Repositorios\\IPerfilesRepository.cs",
+              "RelativeToolTip": "..\\Integracion.Data\\Repositorios\\IPerfilesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:22:12.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ServiciosRepository.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Data\\Repositorios\\ServiciosRepository.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Data\\Repositorios\\ServiciosRepository.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Data\\Repositorios\\ServiciosRepository.cs",
+              "RelativeToolTip": "..\\Integracion.Data\\Repositorios\\ServiciosRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:23:12.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ICuentasPorCobrarRepository.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Data\\Repositorios\\ICuentasPorCobrarRepository.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Data\\Repositorios\\ICuentasPorCobrarRepository.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Data\\Repositorios\\ICuentasPorCobrarRepository.cs",
+              "RelativeToolTip": "..\\Integracion.Data\\Repositorios\\ICuentasPorCobrarRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:21:31.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Data\\Repositorios\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Data\\Repositorios\\IClienteRepository.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Data\\Repositorios\\IClienteRepository.cs",
+              "RelativeToolTip": "..\\Integracion.Data\\Repositorios\\IClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:20:59.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Perfiles.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Domain\\Entidades\\Perfiles.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Domain\\Entidades\\Perfiles.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Domain\\Entidades\\Perfiles.cs",
+              "RelativeToolTip": "..\\Integracion.Domain\\Entidades\\Perfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:25:01.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Domain\\Entidades\\Log.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Domain\\Entidades\\Log.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Domain\\Entidades\\Log.cs",
+              "RelativeToolTip": "..\\Integracion.Domain\\Entidades\\Log.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:24:57.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Data\\Repositorios\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Data\\Repositorios\\UsuarioRepository.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Data\\Repositorios\\UsuarioRepository.cs",
+              "RelativeToolTip": "..\\Integracion.Data\\Repositorios\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:23:20.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "PerfilesRepository.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Data\\Repositorios\\PerfilesRepository.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Data\\Repositorios\\PerfilesRepository.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Data\\Repositorios\\PerfilesRepository.cs",
+              "RelativeToolTip": "..\\Integracion.Data\\Repositorios\\PerfilesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:22:58.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.Domain\\Entidades\\Clientes.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.Core.Domain\\Entidades\\Clientes.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.Domain\\Entidades\\Clientes.cs",
+              "RelativeToolTip": "..\\TiendaVapes.Core.Domain\\Entidades\\Clientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:06:54.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Data\\Repositorios\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Data\\Repositorios\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Data\\Repositorios\\IUsuarioRepository.cs",
+              "RelativeToolTip": "..\\Integracion.Data\\Repositorios\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:22:42.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IServiciosRepository.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Data\\Repositorios\\IServiciosRepository.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Data\\Repositorios\\IServiciosRepository.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Data\\Repositorios\\IServiciosRepository.cs",
+              "RelativeToolTip": "..\\Integracion.Data\\Repositorios\\IServiciosRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:22:34.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "InventarioMovimientoRepository.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Data\\Repositorios\\InventarioMovimientoRepository.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Data\\Repositorios\\InventarioMovimientoRepository.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Data\\Repositorios\\InventarioMovimientoRepository.cs",
+              "RelativeToolTip": "..\\Integracion.Data\\Repositorios\\InventarioMovimientoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:22:03.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ILogsRepository.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Data\\Repositorios\\ILogsRepository.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Data\\Repositorios\\ILogsRepository.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Data\\Repositorios\\ILogsRepository.cs",
+              "RelativeToolTip": "..\\Integracion.Data\\Repositorios\\ILogsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:21:57.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CuentasPorCobrarRepository.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Data\\Repositorios\\CuentasPorCobrarRepository.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Data\\Repositorios\\CuentasPorCobrarRepository.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Data\\Repositorios\\CuentasPorCobrarRepository.cs",
+              "RelativeToolTip": "..\\Integracion.Data\\Repositorios\\CuentasPorCobrarRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:20:17.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\VapesRD\\Integracion.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Integracion.Domain\\Class1.cs",
+              "ToolTip": "C:\\VapesRD\\Integracion.Domain\\Class1.cs",
+              "RelativeToolTip": "..\\Integracion.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T13:58:13.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "frmCuentasPorCobrar.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmCuentasPorCobrar.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.AdminUI\\frmCuentasPorCobrar.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmCuentasPorCobrar.cs",
+              "RelativeToolTip": "..\\TiendaVapes.AdminUI\\frmCuentasPorCobrar.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T00:04:16.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "frmCuentasPorCobrar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmCuentasPorCobrar.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.AdminUI\\frmCuentasPorCobrar.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmCuentasPorCobrar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\TiendaVapes.AdminUI\\frmCuentasPorCobrar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T00:03:44.025Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.AdminUI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.AdminUI\\Program.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.AdminUI\\Program.cs",
+              "RelativeToolTip": "..\\TiendaVapes.AdminUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T12:25:31.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "MainForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.AdminUI\\MainForm.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.AdminUI\\MainForm.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.AdminUI\\MainForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\TiendaVapes.AdminUI\\MainForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T21:16:27.015Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.AdminUI\\MainForm.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.AdminUI\\MainForm.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.AdminUI\\MainForm.cs",
+              "RelativeToolTip": "..\\TiendaVapes.AdminUI\\MainForm.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T12:43:55.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "frmCotizaciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmCotizaciones.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.AdminUI\\frmCotizaciones.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmCotizaciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\TiendaVapes.AdminUI\\frmCotizaciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T00:00:11.002Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "frmCotizaciones.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmCotizaciones.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.AdminUI\\frmCotizaciones.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmCotizaciones.cs",
+              "RelativeToolTip": "..\\TiendaVapes.AdminUI\\frmCotizaciones.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAADQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T00:01:45.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "frmServicioAgregarEditar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmServicioAgregarEditar.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.AdminUI\\frmServicioAgregarEditar.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmServicioAgregarEditar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\TiendaVapes.AdminUI\\frmServicioAgregarEditar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T23:42:48.969Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "frmServicios.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmServicios.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.AdminUI\\frmServicios.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmServicios.cs",
+              "RelativeToolTip": "..\\TiendaVapes.AdminUI\\frmServicios.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T23:41:54.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "frmServicios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmServicios.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.AdminUI\\frmServicios.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmServicios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\TiendaVapes.AdminUI\\frmServicios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T23:39:52.858Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "frmUsuarioAgregarEditar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmUsuarioAgregarEditar.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.AdminUI\\frmUsuarioAgregarEditar.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmUsuarioAgregarEditar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\TiendaVapes.AdminUI\\frmUsuarioAgregarEditar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T22:09:43.579Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "frmServicioAgregarEditar.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmServicioAgregarEditar.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.AdminUI\\frmServicioAgregarEditar.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmServicioAgregarEditar.cs",
+              "RelativeToolTip": "..\\TiendaVapes.AdminUI\\frmServicioAgregarEditar.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAswFgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T23:44:16.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "frmFacturas.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmFacturas.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.AdminUI\\frmFacturas.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmFacturas.cs",
+              "RelativeToolTip": "..\\TiendaVapes.AdminUI\\frmFacturas.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T22:45:29.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "frmProductoAgregarEditar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmProductoAgregarEditar.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.AdminUI\\frmProductoAgregarEditar.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmProductoAgregarEditar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\TiendaVapes.AdminUI\\frmProductoAgregarEditar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T21:49:53.966Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "frmFacturas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmFacturas.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.AdminUI\\frmFacturas.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmFacturas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\TiendaVapes.AdminUI\\frmFacturas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T22:44:04.368Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "frmProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmProductos.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.AdminUI\\frmProductos.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\TiendaVapes.AdminUI\\frmProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:10:01.113Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "frmFacturaAgregarEditar.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmFacturaAgregarEditar.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.AdminUI\\frmFacturaAgregarEditar.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmFacturaAgregarEditar.cs",
+              "RelativeToolTip": "..\\TiendaVapes.AdminUI\\frmFacturaAgregarEditar.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAswHUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T22:56:33.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "frmFacturaAgregarEditar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmFacturaAgregarEditar.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.AdminUI\\frmFacturaAgregarEditar.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmFacturaAgregarEditar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\TiendaVapes.AdminUI\\frmFacturaAgregarEditar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T22:46:27.985Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "frmClientes.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmClientes.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.AdminUI\\frmClientes.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmClientes.cs",
+              "RelativeToolTip": "..\\TiendaVapes.AdminUI\\frmClientes.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T22:33:53.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "frmClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmClientes.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.AdminUI\\frmClientes.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\TiendaVapes.AdminUI\\frmClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T22:32:39.948Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "frmClienteAgregarEditar.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmClienteAgregarEditar.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.AdminUI\\frmClienteAgregarEditar.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmClienteAgregarEditar.cs",
+              "RelativeToolTip": "..\\TiendaVapes.AdminUI\\frmClienteAgregarEditar.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAswF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T22:37:54.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "frmClienteAgregarEditar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmClienteAgregarEditar.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.AdminUI\\frmClienteAgregarEditar.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmClienteAgregarEditar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\TiendaVapes.AdminUI\\frmClienteAgregarEditar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T22:35:16.633Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "frmUsuarioAgregarEditar.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmUsuarioAgregarEditar.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.AdminUI\\frmUsuarioAgregarEditar.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmUsuarioAgregarEditar.cs",
+              "RelativeToolTip": "..\\TiendaVapes.AdminUI\\frmUsuarioAgregarEditar.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAswHcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T22:14:09.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "frmProductoAgregarEditar.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmProductoAgregarEditar.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.AdminUI\\frmProductoAgregarEditar.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmProductoAgregarEditar.cs",
+              "RelativeToolTip": "..\\TiendaVapes.AdminUI\\frmProductoAgregarEditar.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswFwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T21:55:26.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "frmUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmUsuario.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.AdminUI\\frmUsuario.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\TiendaVapes.AdminUI\\frmUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T21:41:17.719Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "frmUsuario.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmUsuario.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.AdminUI\\frmUsuario.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmUsuario.cs",
+              "RelativeToolTip": "..\\TiendaVapes.AdminUI\\frmUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T21:28:35.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "frmProductos.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmProductos.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.AdminUI\\frmProductos.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.AdminUI\\frmProductos.cs",
+              "RelativeToolTip": "..\\TiendaVapes.AdminUI\\frmProductos.cs",
+              "ViewState": "AgIAAAUAAABwMzMzMzMbwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T12:41:08.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "LoginForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.AdminUI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.AdminUI\\LoginForm.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.AdminUI\\LoginForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\TiendaVapes.AdminUI\\LoginForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:09:51.311Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.AdminUI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.AdminUI\\LoginForm.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.AdminUI\\LoginForm.cs",
+              "RelativeToolTip": "..\\TiendaVapes.AdminUI\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:03:18.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "TiendaVapes.AdminUI.csproj",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.AdminUI\\TiendaVapes.AdminUI.csproj",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.AdminUI\\TiendaVapes.AdminUI.csproj",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.AdminUI\\TiendaVapes.AdminUI.csproj",
+              "RelativeToolTip": "..\\TiendaVapes.AdminUI\\TiendaVapes.AdminUI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-05T13:25:51.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-05T13:07:02.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T13:05:35.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "TiendaVapes.Core.API.csproj",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.API\\TiendaVapes.Core.API.csproj",
+              "RelativeDocumentMoniker": "TiendaVapes.Core.API.csproj",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.API\\TiendaVapes.Core.API.csproj",
+              "RelativeToolTip": "TiendaVapes.Core.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-05T13:05:29.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "TiendaVapes.Core.Domain.csproj",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.Domain\\TiendaVapes.Core.Domain.csproj",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.Core.Domain\\TiendaVapes.Core.Domain.csproj",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.Domain\\TiendaVapes.Core.Domain.csproj",
+              "RelativeToolTip": "..\\TiendaVapes.Core.Domain\\TiendaVapes.Core.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-05T13:06:31.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "TiendaVapes.Core.Data.csproj",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.Data\\TiendaVapes.Core.Data.csproj",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.Core.Data\\TiendaVapes.Core.Data.csproj",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.Data\\TiendaVapes.Core.Data.csproj",
+              "RelativeToolTip": "..\\TiendaVapes.Core.Data\\TiendaVapes.Core.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-05T13:05:08.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.API\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.API\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T13:04:55.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "CotizacionService.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.API\\Services\\CotizacionService.cs",
+              "RelativeDocumentMoniker": "Services\\CotizacionService.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.API\\Services\\CotizacionService.cs",
+              "RelativeToolTip": "Services\\CotizacionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T13:04:48.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "InventarioMovimientoRepository.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.Data\\Repositorios\\InventarioMovimientoRepository.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.Core.Data\\Repositorios\\InventarioMovimientoRepository.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.Data\\Repositorios\\InventarioMovimientoRepository.cs",
+              "RelativeToolTip": "..\\TiendaVapes.Core.Data\\Repositorios\\InventarioMovimientoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:43:02.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "IInventarioMovimientoRepository.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.Data\\Repositorios\\IInventarioMovimientoRepository.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.Core.Data\\Repositorios\\IInventarioMovimientoRepository.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.Data\\Repositorios\\IInventarioMovimientoRepository.cs",
+              "RelativeToolTip": "..\\TiendaVapes.Core.Data\\Repositorios\\IInventarioMovimientoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:42:40.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "ILogsRepository.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.Data\\Repositorios\\ILogsRepository.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.Core.Data\\Repositorios\\ILogsRepository.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.Data\\Repositorios\\ILogsRepository.cs",
+              "RelativeToolTip": "..\\TiendaVapes.Core.Data\\Repositorios\\ILogsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:41:09.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "FacturasRepository.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.Data\\Repositorios\\FacturasRepository.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.Core.Data\\Repositorios\\FacturasRepository.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.Data\\Repositorios\\FacturasRepository.cs",
+              "RelativeToolTip": "..\\TiendaVapes.Core.Data\\Repositorios\\FacturasRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:34:49.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "IFacturasRepository.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.Data\\Repositorios\\IFacturasRepository.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.Core.Data\\Repositorios\\IFacturasRepository.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.Data\\Repositorios\\IFacturasRepository.cs",
+              "RelativeToolTip": "..\\TiendaVapes.Core.Data\\Repositorios\\IFacturasRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:34:13.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "ServiciosRepository.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.Data\\Repositorios\\ServiciosRepository.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.Core.Data\\Repositorios\\ServiciosRepository.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.Data\\Repositorios\\ServiciosRepository.cs",
+              "RelativeToolTip": "..\\TiendaVapes.Core.Data\\Repositorios\\ServiciosRepository.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwFsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:29:32.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "IServiciosRepository.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.Data\\Repositorios\\IServiciosRepository.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.Core.Data\\Repositorios\\IServiciosRepository.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.Data\\Repositorios\\IServiciosRepository.cs",
+              "RelativeToolTip": "..\\TiendaVapes.Core.Data\\Repositorios\\IServiciosRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:29:01.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.Data\\Repositorios\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.Core.Data\\Repositorios\\ClienteRepository.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.Data\\Repositorios\\ClienteRepository.cs",
+              "RelativeToolTip": "..\\TiendaVapes.Core.Data\\Repositorios\\ClienteRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwD4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:25:05.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.Data\\Repositorios\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.Core.Data\\Repositorios\\IClienteRepository.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.Data\\Repositorios\\IClienteRepository.cs",
+              "RelativeToolTip": "..\\TiendaVapes.Core.Data\\Repositorios\\IClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:24:31.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.Data\\Repositorios\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.Core.Data\\Repositorios\\UsuarioRepository.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.Data\\Repositorios\\UsuarioRepository.cs",
+              "RelativeToolTip": "..\\TiendaVapes.Core.Data\\Repositorios\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:21:53.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.Data\\Repositorios\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.Core.Data\\Repositorios\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.Data\\Repositorios\\IUsuarioRepository.cs",
+              "RelativeToolTip": "..\\TiendaVapes.Core.Data\\Repositorios\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:21:28.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.Data\\Repositorios\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.Core.Data\\Repositorios\\ProductoRepository.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.Data\\Repositorios\\ProductoRepository.cs",
+              "RelativeToolTip": "..\\TiendaVapes.Core.Data\\Repositorios\\ProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:19:27.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "IProductoRepository.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.Data\\Repositorios\\IProductoRepository.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.Core.Data\\Repositorios\\IProductoRepository.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.Data\\Repositorios\\IProductoRepository.cs",
+              "RelativeToolTip": "..\\TiendaVapes.Core.Data\\Repositorios\\IProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:15:53.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "InventarioMovimiento.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.Domain\\Entidades\\InventarioMovimiento.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.Core.Domain\\Entidades\\InventarioMovimiento.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.Domain\\Entidades\\InventarioMovimiento.cs",
+              "RelativeToolTip": "..\\TiendaVapes.Core.Domain\\Entidades\\InventarioMovimiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:09:59.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.Domain\\Entidades\\Log.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.Core.Domain\\Entidades\\Log.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.Domain\\Entidades\\Log.cs",
+              "RelativeToolTip": "..\\TiendaVapes.Core.Domain\\Entidades\\Log.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:09:02.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "Cotizacion.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.Domain\\Entidades\\Cotizacion.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.Core.Domain\\Entidades\\Cotizacion.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.Domain\\Entidades\\Cotizacion.cs",
+              "RelativeToolTip": "..\\TiendaVapes.Core.Domain\\Entidades\\Cotizacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:08:41.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "CuentaPorCobrar.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.Domain\\Entidades\\CuentaPorCobrar.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.Core.Domain\\Entidades\\CuentaPorCobrar.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.Domain\\Entidades\\CuentaPorCobrar.cs",
+              "RelativeToolTip": "..\\TiendaVapes.Core.Domain\\Entidades\\CuentaPorCobrar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:08:02.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "Facturas.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.Domain\\Entidades\\Facturas.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.Core.Domain\\Entidades\\Facturas.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.Domain\\Entidades\\Facturas.cs",
+              "RelativeToolTip": "..\\TiendaVapes.Core.Domain\\Entidades\\Facturas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:07:20.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "dbo.Perfiles.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__VAPESRD_TIENDAVAPES.CORE.DATA_BDCORE.MDF/True/SqlTable/dbo.Perfiles.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__VAPESRD_TIENDAVAPES.CORE.DATA_BDCORE.MDF/True/SqlTable/dbo.Perfiles.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-04T20:05:39.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "Servicios.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.Domain\\Entidades\\Servicios.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.Core.Domain\\Entidades\\Servicios.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.Domain\\Entidades\\Servicios.cs",
+              "RelativeToolTip": "..\\TiendaVapes.Core.Domain\\Entidades\\Servicios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:05:02.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.Domain\\Entidades\\Productos.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.Core.Domain\\Entidades\\Productos.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.Domain\\Entidades\\Productos.cs",
+              "RelativeToolTip": "..\\TiendaVapes.Core.Domain\\Entidades\\Productos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:04:40.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "Perfiles.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.Domain\\Entidades\\Perfiles.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.Core.Domain\\Entidades\\Perfiles.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.Domain\\Entidades\\Perfiles.cs",
+              "RelativeToolTip": "..\\TiendaVapes.Core.Domain\\Entidades\\Perfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:03:56.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.Domain\\Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "..\\TiendaVapes.Core.Domain\\Entidades\\Usuario.cs",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.Domain\\Entidades\\Usuario.cs",
+              "RelativeToolTip": "..\\TiendaVapes.Core.Domain\\Entidades\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:02:52.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "SQLQuery3.sql ",
+              "DocumentMoniker": "C:\\VapesRD\\TiendaVapes.Core.API\\SQLQuery3.sql",
+              "RelativeDocumentMoniker": "SQLQuery3.sql",
+              "ToolTip": "C:\\VapesRD\\TiendaVapes.Core.API\\SQLQuery3.sql",
+              "RelativeToolTip": "SQLQuery3.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-04T20:00:19.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "gdpimatu..sql",
+              "DocumentMoniker": "C:\\Users\\algel\\AppData\\Local\\Temp\\gdpimatu..sql",
+              "RelativeDocumentMoniker": "..\\..\\Users\\algel\\AppData\\Local\\Temp\\gdpimatu..sql",
+              "ToolTip": "C:\\Users\\algel\\AppData\\Local\\Temp\\gdpimatu..sql",
+              "RelativeToolTip": "..\\..\\Users\\algel\\AppData\\Local\\Temp\\gdpimatu..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-04T19:49:00.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "dbo.Usuarios.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__VAPESRD_TIENDAVAPES.CORE.DATA_BDCORE.MDF/True/SqlTable/dbo.Usuarios.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__VAPESRD_TIENDAVAPES.CORE.DATA_BDCORE.MDF/True/SqlTable/dbo.Usuarios.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-04T19:46:09.456Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
